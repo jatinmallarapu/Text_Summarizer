@@ -1,4 +1,4 @@
-# Interactive Text_Summarizer
+# Interactive Text Summarizer
 
 ## AIM:
 This project utilizes a TensorFlow-based model to generate summaries for news articles. The model employs a combination of tokenization, padding, and LSTM layers. The objective is to automatically generate concise and accurate summaries from given articles.
